@@ -1,4 +1,4 @@
-#Maven and Sonar Integration
+# Maven and Sonar Integration
 
 Based on Docker Image of Sonar and Maven example project of https://github.com/gabrielf/maven-samples
 

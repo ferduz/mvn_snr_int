@@ -2,6 +2,9 @@
 
 Based on Docker Image of Sonar and Maven example project of [example]: https://github.com/gabrielf/maven-samples
 
+
+* Prerequisites: Docker and Maven installed
+
 ## Install:
 
 Clone repo
@@ -15,6 +18,8 @@ Run Sonar Image
 `docker-compose up -d`
 
 Run Maven
+
+`cd maven-samples`
 
 `mvn install`
 

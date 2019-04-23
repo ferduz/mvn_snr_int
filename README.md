@@ -1,26 +1,26 @@
-Maven and Sonar Integration
+#Maven and Sonar Integration
 
 Based on Docker Image of Sonar and Maven example project of https://github.com/gabrielf/maven-samples
 
 Install:
 
-# Clone repo
+Clone repo
 
 git clone https://github.com/ferduz/mvn_snr_int.git
 
-# Run Sonar Image
+Run Sonar Image
 
 docker-compose up -d
 
-# Run Maven
+Run Maven
 
 mvn install
 
-# Run Maven Test against SonarQube
+Run Maven Test against SonarQube
 
 mvn sonar:sonar
 
-# Check on sonar web
+Check on sonar web
 
 http://localhost
 

@@ -11,6 +11,7 @@ Clone repo
 Run Sonar Image
 
 `cd mvn_snr_int`
+
 `docker-compose up -d`
 
 Run Maven

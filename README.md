@@ -36,3 +36,6 @@ user: admin
 pass: bitnami
 
 Check in the Dashboard that Parent Project Passed Test :)
+
+
+* Setup your own Maven project takeing a look to SETUP.md

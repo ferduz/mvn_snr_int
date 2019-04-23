@@ -1,6 +1,6 @@
 # Maven and Sonar Integration
 
-Based on Docker Image of Sonar and Maven example project of [example]: https://github.com/gabrielf/maven-samples
+Based on Docker Image of Sonar and Maven example project of https://github.com/gabrielf/maven-samples
 
 
 * Prerequisites: Docker and Maven installed
